@@ -30,6 +30,8 @@ _Help_
 _Resize_
 ![Resize](https://github.com/fcheung23/Paint/blob/main/screenshots/Resize%20-%20Paint.png)
 
+
+
 _Save and Load_
 ![Save and Load](https://github.com/fcheung23/Paint/blob/main/screenshots/Save%20and%20Load%20-%20Paint.png)
 
