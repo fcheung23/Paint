@@ -6,14 +6,14 @@
 1. Create a "canvas" by calling the program with a specified size, or default to 10 X 10
 2. Use the multitude of commands the program allows:
     1. Help: h | Prints all available commands
-  b. Quit: q | Quits program
-  c. Draw line: w row_start col_start row_end col_end | Draws a line on the canvas (horizontal, vertical, or diagonal)
-  d. Resize: r num_rows num_cols | Resizes the canvas to a specified size
-  e. Add row or column: a [r | c] pos | Adds a row or column to a specified position
-  f. Delete row or column: d [r | c] pos | Deletes a row or column from a specified position
-  g. Erase: e row col\n | Erases a spot (makes blank)
-  h. Save: s file_name | Saves a canvas by a specified name
-  i. Load: l file_name | Access a previously saved canvas by a specified name
+    2. Quit: q | Quits program
+    3. Draw line: w row_start col_start row_end col_end | Draws a line on the canvas (horizontal, vertical, or diagonal)
+    4. Resize: r num_rows num_cols | Resizes the canvas to a specified size
+    5. Add row or column: a [r | c] pos | Adds a row or column to a specified position
+    6. Delete row or column: d [r | c] pos | Deletes a row or column from a specified position
+    7. Erase: e row col\n | Erases a spot (makes blank)
+    8. Save: s file_name | Saves a canvas by a specified name
+    9. Load: l file_name | Access a previously saved canvas by a specified name
 
 ## Features
 1. Robust input validation and error messaging (wrong use of commands, explains to user, accounts for all cases)
