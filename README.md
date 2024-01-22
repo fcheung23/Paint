@@ -20,23 +20,15 @@
 2. Dynamically allocated 2D arrays that are stored by 3D array (save feature)
 3. All functions use dynamically allocated memory and free memory accordingly
 
- ## Gameplay Screenshots
-_Tutorial Screen_
-![Tutorial](https://github.com/fcheung23/Battleship/blob/main/screenshots/Tutorial%20-%20BattleShip.png)
+ ## Demo Screenshots
+_Draw_
+![Draw](https://github.com/fcheung23/Paint/blob/main/screenshots/Draw%20-%20Paint.png)
 
-_Ship Placement_
-![Ship Placement](https://github.com/fcheung23/Battleship/blob/main/screenshots/Ship%20Placement%20-%20BattleShip.png)
+_Help_
+![Help](https://github.com/fcheung23/Paint/blob/main/screenshots/Help%20-%20Paint.png)
 
-_Ship Status_
-![Ship Status](https://github.com/fcheung23/Battleship/blob/main/screenshots/Ship%20Status%20-%20BattleShip.png)
+_Resize_
+![Resize](https://github.com/fcheung23/Paint/blob/main/screenshots/Resize%20-%20Paint.png)
 
-_Hit Screen_
-![Hit Screen](https://github.com/fcheung23/Battleship/blob/main/screenshots/Hit%20Screen%20-%20BattleShip.png)
-
-_Miss Screen_
-![Miss Screen](https://github.com/fcheung23/Battleship/blob/main/screenshots/Miss%20Screen%20-%20BattleShip.png)
-
-_Win Screen_
-![Win Screen](https://github.com/fcheung23/Battleship/blob/main/screenshots/Win%20Screen%20-%20BattleShip.png)
-
-
+_Save and Load_
+![Save and Load](https://github.com/fcheung23/Paint/blob/main/screenshots/Save%20and%20Load%20-%20Paint.png)
