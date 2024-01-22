@@ -5,7 +5,7 @@
 ## How to Use
 1. Create a "canvas" by calling the program with a specified size, or default to 10 X 10
 2. Use the multitude of commands the program allows:
-    a. Help: h | Prints all available commands
+    1. Help: h | Prints all available commands
   b. Quit: q | Quits program
   c. Draw line: w row_start col_start row_end col_end | Draws a line on the canvas (horizontal, vertical, or diagonal)
   d. Resize: r num_rows num_cols | Resizes the canvas to a specified size
