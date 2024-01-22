@@ -21,25 +21,17 @@
 3. All functions use dynamically allocated memory and free memory accordingly
 
  ## Demo Screenshots
-_Draw_
+_Draw Command_
 ![Draw](https://github.com/fcheung23/Paint/blob/main/screenshots/Draw%20-%20Paint.png)
 
 _Help_
 ![Help](https://github.com/fcheung23/Paint/blob/main/screenshots/Help%20-%20Paint.png)
 
-_Resize_
-![Resize](https://github.com/fcheung23/Paint/blob/main/screenshots/Resize%20-%20Paint.png)
-
-
-
-_Save and Load_
+_Save and Load Commands_
 ![Save and Load](https://github.com/fcheung23/Paint/blob/main/screenshots/Save%20and%20Load%20-%20Paint.png)
 
-
-
-
-
-
+_Resize Command_
+![Resize](https://github.com/fcheung23/Paint/blob/main/screenshots/Resize%20-%20Paint.png)
 
 
 
